@@ -1,0 +1,9 @@
+com/splt/MainApplication.java
+ com.splt.MainApplication
+ com.splt.MainApplication$1
+com/splt/BuildConfig.java
+ com.splt.BuildConfig
+com/splt/MainActivity.java
+ com.splt.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

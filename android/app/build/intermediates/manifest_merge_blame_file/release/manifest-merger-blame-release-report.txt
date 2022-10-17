@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.splt"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.VIBRATE" />
+12-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:5:5-65
+12-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:5:22-63
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+13-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:22-62
+14
+15    <uses-feature
+15-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:11:5-13:36
+16        android:name="android.hardware.camera"
+16-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:12:9-47
+17        android:required="false" />
+17-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:13:9-33
+18    <uses-feature
+18-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:14:5-16:36
+19        android:name="android.hardware.camera.autofocus"
+19-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:15:9-57
+20        android:required="false" />
+20-->[:react-native-camera] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:16:9-33
+21
+22    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+22-->[:react-native-keychain] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-72
+22-->[:react-native-keychain] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-69
+23    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+23-->[:react-native-keychain] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-74
+23-->[:react-native-keychain] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-71
+24
+25    <application
+25-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:7:5-26:19
+26        android:name="com.splt.MainApplication"
+26-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:8:7-38
+27        android:allowBackup="false"
+27-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:12:7-34
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] /home/pnd004/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:18-86
+29        android:icon="@mipmap/ic_launcher"
+29-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:10:7-41
+30        android:label="@string/app_name"
+30-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:9:7-39
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:11:7-52
+32        android:theme="@style/AppTheme"
+32-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:14:7-38
+33        android:usesCleartextTraffic="true" >
+33-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:13:7-42
+34        <activity
+34-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:15:7-25:18
+35            android:name="com.splt.MainActivity"
+35-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:16:9-37
+36            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+36-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:18:9-86
+37            android:label="@string/app_name"
+37-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:17:9-41
+38            android:launchMode="singleTask"
+38-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:19:9-40
+39            android:windowSoftInputMode="adjustResize" >
+39-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:20:9-51
+40            <intent-filter>
+40-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:21:9-24:25
+41                <action android:name="android.intent.action.MAIN" />
+41-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:22:13-65
+41-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:22:21-62
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:23:13-73
+43-->/home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/android/app/src/main/AndroidManifest.xml:23:23-70
+44            </intent-filter>
+45        </activity>
+46
+47        <provider
+47-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+48            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+48-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+49            android:authorities="com.splt.fileprovider"
+49-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+50            android:exported="false"
+50-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+51            android:grantUriPermissions="true" >
+51-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+52            <meta-data
+52-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+53                android:name="android.support.FILE_PROVIDER_PATHS"
+53-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+54                android:resource="@xml/file_provider_paths" />
+54-->[:react-native-webview] /home/pnd004/Desktop/MobileApp/SPLTwallet/splt-ios/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+55        </provider>
+56
+57        <activity
+57-->[com.google.android.gms:play-services-base:16.0.1] /home/pnd004/.gradle/caches/transforms-2/files-2.1/3429aa13f4388c0cf46dac0c8974d7e3/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+58-->[com.google.android.gms:play-services-base:16.0.1] /home/pnd004/.gradle/caches/transforms-2/files-2.1/3429aa13f4388c0cf46dac0c8974d7e3/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-base:16.0.1] /home/pnd004/.gradle/caches/transforms-2/files-2.1/3429aa13f4388c0cf46dac0c8974d7e3/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-base:16.0.1] /home/pnd004/.gradle/caches/transforms-2/files-2.1/3429aa13f4388c0cf46dac0c8974d7e3/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+61
+62        <meta-data
+62-->[com.google.android.gms:play-services-basement:16.1.0] /home/pnd004/.gradle/caches/transforms-2/files-2.1/09b6536e4439eb878aa40260c3fd21c0/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+63            android:name="com.google.android.gms.version"
+63-->[com.google.android.gms:play-services-basement:16.1.0] /home/pnd004/.gradle/caches/transforms-2/files-2.1/09b6536e4439eb878aa40260c3fd21c0/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+64            android:value="@integer/google_play_services_version" />
+64-->[com.google.android.gms:play-services-basement:16.1.0] /home/pnd004/.gradle/caches/transforms-2/files-2.1/09b6536e4439eb878aa40260c3fd21c0/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+65    </application>
+66
+67</manifest>

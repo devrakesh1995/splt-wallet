@@ -1,1 +1,1 @@
-# splt-wallet
+# splt-ios

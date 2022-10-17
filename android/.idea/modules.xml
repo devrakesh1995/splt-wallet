@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/splt.iml" filepath="$PROJECT_DIR$/.idea/modules/splt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/splt.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/splt.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/splt.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/splt.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/splt.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/splt.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/splt.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/splt.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-160162869/splt.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1625194885/splt.react-native-camera.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/504446646/splt.react-native-community_clipboard.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1854081641/splt.react-native-community_datetimepicker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/812434119/splt.react-native-community_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1401149270/splt.react-native-document-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-305429520/splt.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.iml" filepath="$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-423770984/splt.react-native-keychain.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/576589998/splt.react-native-permissions.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1565367252/splt.react-native-reanimated.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-808624039/splt.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1610896463/splt.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2129959794/splt.react-native-svg.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1612880358/splt.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1943013411/splt.react-native-webview.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+com/splticoin/MainApplication.java
+ com.splt.MainApplication
+ com.splt.MainApplication$1
+com/splt/BuildConfig.java
+ com.splt.BuildConfig
+com/splticoin/MainActivity.java
+ com.splt.MainActivity
+com/splticoin/ReactNativeFlipper.java
+ com.splt.ReactNativeFlipper
+ com.splt.ReactNativeFlipper$1
+ com.splt.ReactNativeFlipper$2
+ com.splt.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
